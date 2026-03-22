@@ -1,0 +1,12 @@
+<suite name="CRD Test Suite">
+    <test name="Edge Tests">
+        <groups>
+            <run>
+                <include name="edge"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.crd.RebalancerTest"/>
+        </classes>
+    </test>
+</suite>
