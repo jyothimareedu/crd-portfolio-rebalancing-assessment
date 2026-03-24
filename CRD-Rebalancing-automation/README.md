@@ -28,3 +28,6 @@ API Assumptions (RebalancingAPITest)
 
 6. Assumed API endpoint, request and response contract for API tests, since no real API was provided for this exercise.
 
+7. No transaction costs are modeled
+
+8. "Variance = current% − target%. A negative variance means the security is underweight and shares must be purchased. A positive variance means the security is overweight and shares must be sold."
