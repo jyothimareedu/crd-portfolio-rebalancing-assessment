@@ -45,7 +45,7 @@ import java.util.List;
 
 public class RebalancingAPITest {
 
-	 private static final String BASE_URL   = "http://localhost:8080";
+	    private static final String BASE_URL   = "http://localhost:8080";
 	    private static final String ENDPOINT   = "/api/rebalance";
 	    private static final String ACCOUNT_ID = "ABC";
 	    
